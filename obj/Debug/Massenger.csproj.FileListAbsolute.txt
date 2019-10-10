@@ -1,0 +1,11 @@
+C:\Users\binya\source\repos\Massenger\Massenger\obj\Debug\Massenger.csprojAssemblyReference.cache
+C:\Users\binya\source\repos\Massenger\Massenger\obj\Debug\Massenger.MenuForm.resources
+C:\Users\binya\source\repos\Massenger\Massenger\obj\Debug\Massenger.Properties.Resources.resources
+C:\Users\binya\source\repos\Massenger\Massenger\obj\Debug\Massenger.csproj.GenerateResource.cache
+C:\Users\binya\source\repos\Massenger\Massenger\obj\Debug\Massenger.csproj.CoreCompileInputs.cache
+C:\Users\binya\source\repos\Massenger\Massenger\bin\Debug\Massenger.exe.config
+C:\Users\binya\source\repos\Massenger\Massenger\bin\Debug\Massenger.exe
+C:\Users\binya\source\repos\Massenger\Massenger\bin\Debug\Massenger.pdb
+C:\Users\binya\source\repos\Massenger\Massenger\obj\Debug\Massenger.exe
+C:\Users\binya\source\repos\Massenger\Massenger\obj\Debug\Massenger.pdb
+C:\Users\binya\source\repos\Massenger\Massenger\obj\Debug\Massenger.DialogForm.resources
